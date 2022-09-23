@@ -2,8 +2,12 @@
 
 This project will be a Flask-built Project Recorder
 
-## Requirements
+## MVP Requirements
 
 - Add, update, and delete Project ideas
-- Be able to add notes on the project
-- Be able to add date created and date last updated timestamps
+- Show date created
+- Show "Not Started" and "Completed" statuses
+
+## Future Requirements
+- Update and displaty progress (such as 'In Progress' or a percentage)
+- Update notes for a given project
